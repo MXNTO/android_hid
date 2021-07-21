@@ -16,7 +16,7 @@ echo a n k o | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /d
 sleep 0.5
 echo period | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
 sleep 0.2
-echo c o m | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
+echo c o m | /data/data/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
 sleep 0.2
 echo slash | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
 sleep 0.2
@@ -58,7 +58,7 @@ echo enter | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /dev
 sleep 1
 echo tab | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
 sleep 1
-echo right | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
+echo right | /data/data/com.offsec.n2028886235ethu5882427g9hcgxydivuxgkzuud7rx7righufgxuvxu kujgfuccnter/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
 sleep 1
 echo enter | /data/data/com.offsec.nethunter/files/scripts/bin/hid-keyboard /dev/hidg0 keyboard
 
